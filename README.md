@@ -1,3 +1,3 @@
 # demo
 demo
-Thia ia my first repository.
+This ia my first repository.
